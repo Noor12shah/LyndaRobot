@@ -34,3 +34,4 @@ psutil
 py-cpuinfo
 nekos.py
 spamwatch
+git+https://github.com/pyrogram/pyrogram@asyncio-dev
