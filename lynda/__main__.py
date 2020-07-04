@@ -17,11 +17,11 @@ from lynda.modules.helper_funcs.chat_status import is_user_admin
 from lynda.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
-Hellp {}, 
-my name is {} !
+Hello {}, 
+My name is {} !
 I am an group management bot with a lot of Special Features.
-I Made Made Using Python 3 And Best For Big Groups !
-You can find the list of available commands with /help.
+__I Made Made Using Python 3 And Best For Big Groups__ !
+*You can find the list of available commands with* /help.
 ==========================
 ✗ [Support Channel](https://t.me/ileanaBotSupport)
 ✗ [Thanks To These People](https://t.me/ileanaSayThanks)
