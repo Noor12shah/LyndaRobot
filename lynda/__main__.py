@@ -20,7 +20,8 @@ PM_START_TEXT = """
 Hello {}, 
 My name is {} !
 I am an group management bot with a lot of Special Features.
-__I Made Made Using Python 3 And Best For Big Groups__ !
+*Please Click* `Help` *Button For Assistance And Help Regarding Special Modules*
+__I Am Fun And Easy To Use__ !
 *You can find the list of available commands with* /help.
 ==========================
 ✗ [Support Channel](https://t.me/ileanaBotSupport)
